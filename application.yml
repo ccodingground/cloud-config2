@@ -1,3 +1,5 @@
+server:
+  name: cloudconfig-test
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
